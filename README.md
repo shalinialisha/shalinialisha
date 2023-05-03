@@ -3,7 +3,7 @@
 
 ```yaml
 name: shalini thinakaran
-class: junior
+class: sophomore '25
 education: vanderbilt university
 
 currently working on: learning to use github to document projects
