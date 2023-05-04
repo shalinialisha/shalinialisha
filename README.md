@@ -6,7 +6,8 @@ name: shalini thinakaran
 class: sophomore '25
 education: vanderbilt university
 
-currently working on: learning to use github to document projects
+skilled in: c++, java, r
+currently working on: html, css, javascript
 summer 2k23 goals: finish a game and a website 
 hobbies: poetry, literature, art (check out my twitter)
 ```
