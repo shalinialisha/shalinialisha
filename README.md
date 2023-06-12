@@ -9,7 +9,7 @@ education: vanderbilt university
 skilled in: c++, java, r
 currently working on: html, css, javascript
 summer 2k23 goals: finish a game and a website 
-hobbies: poetry, literature, art (check out my twitter)
+hobbies: poetry, literature, art
 ```
 
 ![shali's github stats](https://github-readme-stats.vercel.app/api?username=shalinialisha&count_private=true&theme=cobalt&bg_color=00000000)
@@ -17,9 +17,7 @@ hobbies: poetry, literature, art (check out my twitter)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalinialisha&theme=cobalt&bg_color=00000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://twitter.com/shalisgallery?s=11">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-1024.png"/>
-</a>
+
 
 <!-- <a href="https://www.linkedin.com/in/shalinithinakaran/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/website-red/64/PROFILE-personal-web_page-website-browser-1024.png"/>
