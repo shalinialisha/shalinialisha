@@ -1,18 +1,17 @@
 ### 🪸🫧 welcome to my github 🫧🪸
-`digital design` `web development` `ux/ui` `game development` `game design`
+`ai` `ml` `digital design` `ux/ui`
 
 ```yaml
 name: shalini thinakaran
-class: sophomore '25
+class: junior '25
 education: vanderbilt university
 
 skilled in: c++, java, r
-currently working on: html, css, javascript
+currently working on: python, javascript
 summer 2k23 goals: finish a game and a website 
-hobbies: poetry, literature, art
 ```
 
-![shali's github stats](https://github-readme-stats.vercel.app/api?username=shalinialisha&count_private=true&theme=cobalt&bg_color=00000000)
+![shali's github stats](https://github-readme-stats.vercel.app/api?username=shalinialisha&count_theme=cobalt&bg&private=true_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalinialisha&theme=cobalt&bg_color=00000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
