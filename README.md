@@ -1,5 +1,7 @@
 ### 🪸🫧 welcome to my github 🫧🪸
 `ai` `ml` `digital design` `research`
+<img align='right' src="https://github.com/shalinialisha/shalinialisha/assets/123770923/4eb18367-4937-4989-abbf-599898d4dfcc"
+ width="250">
 
 ```yaml
 name: shalini thinakaran
