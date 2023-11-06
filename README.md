@@ -10,7 +10,6 @@ interests: finding ways to make ml and ai serve marginalized communities
 
 skilled in: c++, java, r
 currently working on: python, javascript, react, flask
-summer 2k23 goals: train and deploy new models for use!
 ```
 <a href="https://huggingface.co/shalinialisha">
   <img width="50" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"/>
