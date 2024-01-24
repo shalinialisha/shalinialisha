@@ -9,7 +9,7 @@ education: class of '25 at vanderbilt university
 interests: finding ways to make ml and ai serve marginalized communities 
 
 skilled in: c++, java, r
-currently working on: python, javascript, react, flask
+currently working on: research, python, javascript
 ```
 <a href="https://huggingface.co/shalinialisha">
   <img width="50" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"/>
