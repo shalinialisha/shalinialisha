@@ -8,8 +8,13 @@ name: shalini thinakaran
 education: class of '25 at vanderbilt university
 interests: finding ways to make ml and ai serve marginalized communities 
 
-skilled in: c++, java, r
-currently working on: research, python, javascript
+skilled in:
+ -languages: C++, elixir, erlang, HTML, java, javascript, python, R, typescript
+ -ml/ds: matplotlib, mlflow, numpy, pandas, plotly, pytorch, tensorflow
+ -dbs: mongodb, postgres, sql
+ -other: adobe suite, blender, datadog, figma, godot engine, playwright, vercel
+
+currently working on: research
 ```
 <a href="https://huggingface.co/shalinialisha">
   <img width="50" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"/>
@@ -22,8 +27,6 @@ currently working on: research, python, javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalinialisha&theme=cobalt&bg_color=00000000&count&private=true&layout=compact)](https://github.com/shalinialisha/readme-stats)
 
 ![shali's github stats](https://github-readme-stats.vercel.app/api?username=shalinialisha&count&private=true&theme=cobalt&bg_color=00000000)
-
-
 
 
 
