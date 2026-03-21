@@ -1,12 +1,16 @@
 ### 🪸🫧 welcome to my github 🫧🪸
-`ai` `ml` `digital design` `research`
+🧿 [`website`](https://shalinialisha.github.io/) [`linkedin`](https://www.linkedin.com/in/shalinithinakaran/) [`huggingface`](https://huggingface.co/shalinialisha) 🧿
+
+🌃🏵 `ai` `ml` `digital design` `research` 🏵🌃
 <img align='right' src="https://github.com/shalinialisha/shalinialisha/assets/123770923/4eb18367-4937-4989-abbf-599898d4dfcc"
  width="250">
 
 ```yaml
 name: shalini thinakaran
 education: class of '25 at vanderbilt university
-interests: finding ways to make ml and ai serve marginalized communities 
+interests: finding ways to make ml and ai serve marginalized communities
+company: adobe
+city: nyc
 
 skilled in:
  -languages: C++, elixir, erlang, HTML, java, javascript, python, R, typescript
@@ -27,7 +31,4 @@ currently working on: research
   </tr>
 </table>
 
-<!-- <a href="https://www.linkedin.com/in/shalinithinakaran/">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/website-red/64/PROFILE-personal-web_page-website-browser-1024.png"/>
-</a> -->
 
